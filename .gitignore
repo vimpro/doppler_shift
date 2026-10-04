@@ -1,0 +1,38 @@
+# Vivado generated folders, rebuilt from the .xpr and sources
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Incremental synthesis checkpoint
+*.srcs/utils_1/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+*.pb
+vivado_pid*.zip
+webtalk*
+
+# Build outputs, attach these to a GitHub release instead
+*.bit
+*.bin
+*.mcs
+*.prm
+*.dcp
+*.ltx
+
+# Simulator output
+xsim.dir/
+*.wdb
+*.vcd
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
