@@ -4,6 +4,7 @@ This is a real time audio pitch shifter built on a Basys3 FPGA. The audio input 
 
 ## Demo
 
+https://github.com/user-attachments/assets/b49d8a51-f050-4d62-912f-3ded72625914
 
 ## Hardware
 
